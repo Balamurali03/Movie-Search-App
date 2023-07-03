@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    padding: 0px;
+}
+
+.search {
+    background-color: aliceblue;
+    height: 50px;
+    width: 350px;
+    border-radius: 15px;
+    border: transparent;
+}
+button {
+    background-color: white;
+    height: 50px;
+    width: 100px;
+    border-radius: 15px;
+    margin-left: 10px;
+    border: transparent;
+}
+
+h2 , h3 {
+    color: white;
+}
